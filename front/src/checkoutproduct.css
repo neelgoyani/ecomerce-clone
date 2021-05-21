@@ -1,0 +1,29 @@
+.checkout-product {
+    display: flex;
+}
+
+.cproduct_rating {
+    display: flex;
+}
+
+.cproduct_info > button {
+    background-color: gold;
+    padding: 5px;
+    border: none;
+}
+.cproduct_info {
+    margin: 10px;
+    max-width: 200px;
+}
+
+.cproduct_info > p {
+    font-size: 1rem;
+    font-weight: 618
+
+}
+
+.cproduct_img {
+    height: 200px;
+    width: auto;
+    margin: 10px;
+}

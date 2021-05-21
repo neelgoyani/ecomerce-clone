@@ -1,0 +1,40 @@
+.checkout{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}
+.checkout_left {
+    display: flex;
+    flex-direction: column;
+    flex: 0.70;
+
+}
+.left_info {
+    margin-left: 10px;
+}
+
+.checkout_title {
+    border-bottom: 1px solid black;
+}
+
+.checkout_right {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+    flex: 0.40;
+    border: 1px solid black;
+    margin: 10px 20px;
+    border-radius: 10px;
+    max-height: 160px;
+}
+
+.checkout_right > button {
+    background-color: gold;
+    margin: 10px;
+    padding: 5px;
+    outline: none;
+    border: none;
+}

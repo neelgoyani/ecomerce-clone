@@ -1,0 +1,18 @@
+.order_id {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+
+
+.order_total {
+    font-weight: 700;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+
+.order2 {
+    border-bottom: 1px solid black;
+}

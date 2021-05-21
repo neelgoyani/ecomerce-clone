@@ -1,0 +1,17 @@
+.payment{
+    background-color: white;
+
+}
+
+.payment_container > h1 {
+    text-align: center;
+    /* background-color: gray; */
+    border-bottom: 1px solid black;
+    background-color: #bfbfbf;
+    margin: 0px;
+    padding-bottom: 10px;
+}
+
+.payment_section{
+    border-bottom: 1px solid gray;
+}
